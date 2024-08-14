@@ -40,6 +40,7 @@
 ## Developing
 
 - [CSS Spring Easing Generator](https://www.kvin.me/css-springs)
+- [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 - [CSS Gradient](https://cssgradient.io/)
 - [Theme Studio](https://themes.vscode.one/) - VS Code theme generator.
 
