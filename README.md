@@ -44,6 +44,7 @@
 - [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 - [CSS Gradient](https://cssgradient.io/)
 - [Theme Studio](https://themes.vscode.one/) - VS Code theme generator.
+- [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/) - A browser tool to look at what's available in the clipboard for a "paste" event.
 
 ## Editors
 
