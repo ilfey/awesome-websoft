@@ -43,6 +43,7 @@
 - [What in Zod's name?](https://zod.fyi/) - Zod error visualizer.
 - [Bundlephobia](https://bundlephobia.com/) - Bundle size of package.
 - [Packagephobia](https://packagephobia.com/) - Size of package in node_modules.
+- [bundlejs](https://bundlejs.com/) - Npm package size checker.
 - [CSS Spring Easing Generator](https://www.kvin.me/css-springs)
 - [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 - [CSS Gradient](https://cssgradient.io/)
