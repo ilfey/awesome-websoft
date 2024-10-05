@@ -40,6 +40,7 @@
 
 ## Developing
 
+- [What in Zod's name?](https://zod.fyi/) - Zod error visualizer.
 - [Bundlephobia](https://bundlephobia.com/) - Bundle size of package.
 - [Packagephobia](https://packagephobia.com/) - Size of package in node_modules.
 - [CSS Spring Easing Generator](https://www.kvin.me/css-springs)
