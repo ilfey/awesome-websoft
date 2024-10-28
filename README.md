@@ -50,6 +50,7 @@
 - [Theme Studio](https://themes.vscode.one/) - VS Code theme generator.
 - [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/) - A browser tool to look at what's available in the clipboard for a "paste" event.
 - [quicktype](https://quicktype.io/) - JSON converter into gorgeous, typesafe code in any language.
+- [MySQL Visual Explain](http://github.com/ilfey)
 
 ## Editors
 
