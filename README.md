@@ -69,6 +69,7 @@
 ## Image processing
 
 - [iLoveIMG](https://www.iloveimg.com/)
+- [favic-o-matic](https://favicomatic.com/) - Favicon generator.
 
 ## Markdown
 
