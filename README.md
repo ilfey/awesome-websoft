@@ -69,6 +69,7 @@
 
 ## Image processing
 
+- [CompressOrDie](https://compress-or-die.com/) - Image compressor, analyzer and repairer.
 - [iLoveIMG](https://www.iloveimg.com/)
 - [favic-o-matic](https://favicomatic.com/) - Favicon generator.
 
