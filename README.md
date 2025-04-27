@@ -51,6 +51,7 @@
 - [Theme Studio](https://themes.vscode.one/) - VS Code theme generator.
 - [Clipboard Inspector](https://evercoder.github.io/clipboard-inspector/) - A browser tool to look at what's available in the clipboard for a "paste" event.
 - [quicktype](https://quicktype.io/) - JSON converter into gorgeous, typesafe code in any language.
+- [JSON to JSON schema converter](https://redocly.com/tools/json-to-json-schema/) - Converter JSON to JSON schema or OAS 2+.
 - [MySQL Visual Explain](http://github.com/ilfey)
 - [DevOps Playgrounds](https://labs.iximiuz.com/playgrounds)
 
