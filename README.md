@@ -10,6 +10,7 @@
 - [Converters](#converters)
 - [Design](#design)
 - [Developing](#developing)
+- [Downloaders](#downloaders)
 - [Editors](#editors)
 - [Fonts](#fonts)
 - [Github](#github)
@@ -55,6 +56,10 @@
 - [JSON to JSON schema converter](https://redocly.com/tools/json-to-json-schema/) - Converter JSON to JSON schema or OAS 2+.
 - [MySQL Visual Explain](http://github.com/ilfey)
 - [DevOps Playgrounds](https://labs.iximiuz.com/playgrounds)
+
+## Downloaders
+
+- [cobalt](https://cobalt.tools/)
 
 ## Editors
 
