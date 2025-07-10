@@ -13,6 +13,7 @@
 - [Downloaders](#downloaders)
 - [Editors](#editors)
 - [Fonts](#fonts)
+- [Generators](#generators)
 - [Github](#github)
 - [Image processing](#image-processing)
 - [Markdown](#markdown)
@@ -68,6 +69,10 @@
 ## Fonts
 
 - [FontDrop](https://fontdrop.info/) - Font analyzer.
+
+## Generators
+
+- [QRCode Monkey](https://www.qrcode-monkey.com/) - QR code generator
 
 ## Github
 
