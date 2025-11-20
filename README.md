@@ -64,6 +64,7 @@
 
 ## Editors
 
+- [markdrop](https://markdrop.vercel.app/builder) - Markdown editor.
 - [StackEdit](https://stackedit.io/) - Markdown editor.
 
 ## Fonts
