@@ -16,6 +16,7 @@
 - [Generators](#generators)
 - [Github](#github)
 - [Image processing](#image-processing)
+- [IP checking](#ip-checking)
 - [Markdown](#markdown)
 - [Painting](#painting)
 - [Science](#science)
@@ -67,6 +68,7 @@
 
 - [markdrop](https://markdrop.vercel.app/builder) - Markdown editor.
 - [StackEdit](https://stackedit.io/) - Markdown editor.
+- [Graphite](https://editor.graphite.art/) - Vector graphics editor.
 
 ## Fonts
 
@@ -86,6 +88,10 @@
 - [CompressOrDie](https://compress-or-die.com/) - Image compressor, analyzer and repairer.
 - [iLoveIMG](https://www.iloveimg.com/)
 - [favic-o-matic](https://favicomatic.com/) - Favicon generator.
+
+## IP checking
+
+- [ipcheck.ing](https://ipcheck.ing/)
 
 ## Markdown
 
