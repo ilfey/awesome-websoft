@@ -42,6 +42,7 @@
 - [Blobmaker](https://www.blobmaker.app/) - Blob generator.
 - [Haikei](https://haikei.app/) - SVG design assets generator.
 - [Coolors](https://coolors.co/) - Color palettes generator.
+- [Graphite](https://editor.graphite.art/) - Vector graphics editor.
 
 ## Developing
 
