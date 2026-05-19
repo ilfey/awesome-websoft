@@ -69,7 +69,6 @@
 
 - [markdrop](https://markdrop.vercel.app/builder) - Markdown editor.
 - [StackEdit](https://stackedit.io/) - Markdown editor.
-- [Graphite](https://editor.graphite.art/) - Vector graphics editor.
 
 ## Fonts
 
