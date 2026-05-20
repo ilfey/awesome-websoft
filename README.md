@@ -16,6 +16,7 @@
 - [Generators](#generators)
 - [Github](#github)
 - [Image processing](#image-processing)
+- [IP checking](#ip-checking)
 - [Markdown](#markdown)
 - [Painting](#painting)
 - [Science](#science)
@@ -41,6 +42,7 @@
 - [Blobmaker](https://www.blobmaker.app/) - Blob generator.
 - [Haikei](https://haikei.app/) - SVG design assets generator.
 - [Coolors](https://coolors.co/) - Color palettes generator.
+- [Graphite](https://editor.graphite.art/) - Vector graphics editor.
 
 ## Developing
 
@@ -86,6 +88,10 @@
 - [CompressOrDie](https://compress-or-die.com/) - Image compressor, analyzer and repairer.
 - [iLoveIMG](https://www.iloveimg.com/)
 - [favic-o-matic](https://favicomatic.com/) - Favicon generator.
+
+## IP checking
+
+- [ipcheck.ing](https://ipcheck.ing/)
 
 ## Markdown
 
