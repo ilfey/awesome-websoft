@@ -29,6 +29,7 @@
 
 ## Converters
 
+- [BrowsersKit](https://browserskit.com/) - Absolutely free and secure online browser tools: compress video, reduce file size, convert PDF to images and batch media conversion.
 - [VERT.sh](https://vert.sh/) - All image, audio, and document processing is done on your device. Videos are converted on our lightning-fast servers. No file size limit, no ads, and completely open source
 - [VTF Spray Converter](https://ilfey.github.io/vtf-editor/)
 - [aconvert.com](https://www.aconvert.com/)
@@ -85,6 +86,7 @@
 
 ## Image processing
 
+- [BrowsersKit](https://browserskit.com/) - Absolutely free and secure online browser tools: compress video, reduce file size, convert PDF to images and batch media conversion.
 - [CompressOrDie](https://compress-or-die.com/) - Image compressor, analyzer and repairer.
 - [iLoveIMG](https://www.iloveimg.com/)
 - [favic-o-matic](https://favicomatic.com/) - Favicon generator.
