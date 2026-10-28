@@ -31,6 +31,7 @@
 
 - [BrowsersKit](https://browserskit.com/) - Absolutely free and secure online browser tools: compress video, reduce file size, convert PDF to images and batch media conversion.
 - [VERT.sh](https://vert.sh/) - All image, audio, and document processing is done on your device. Videos are converted on our lightning-fast servers. No file size limit, no ads, and completely open source
+[FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 - [VTF Spray Converter](https://ilfey.github.io/vtf-editor/)
 - [aconvert.com](https://www.aconvert.com/)
 - [Convertio](https://convertio.co/)
